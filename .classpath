@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/main/resources/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/asm.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/commons-logging.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/cos.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/hibernate3.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/javassist.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jboss-archive-browsing.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jta.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/log4j-1.2.11.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
